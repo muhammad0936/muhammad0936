@@ -1,5 +1,5 @@
 # 👨💻 Muhammad Alkhattab 
-**Node.js Developer | Full-Stack Architect | Open-Source Enthusiast**  
+**Node.js Developer | Open-Source Enthusiast**  
 *Building scalable solutions • Turning ideas into production* 🚀  
 
 ---

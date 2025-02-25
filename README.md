@@ -1,10 +1,10 @@
-# 👨💻 Muhammad Alkhattab 
-**Node.js Developer | Open-Source Enthusiast**  
+# 🔧 Muhammad Alkhattab 
+**Backend Architect | API Craftsman | Node.js Maestro**  
 *Building scalable solutions • Turning ideas into production* 🚀  
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🛠️ **Core Stack**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
@@ -20,7 +20,7 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
-## 🚀 **Featured Projects**
+## 🏗️ **Backend Showcase**
 
 ### 🏭 [RB - Factory Management](https://github.com/muhammad0936/RB)  
 `Inventory • Orders • Production Tracking`  
@@ -47,9 +47,9 @@
 
 ---
 
-## 📊 **Contribution Activity**  
+## 🔄 **System Design Principles**  
 ```text
-2023: 60+ contributions
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ ■■■■ □■□■ ■■□■ ■■■■ □■■■ ┃  # ASCII graph
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+1. Stateless > Stateful
+2. Cache All The Things
+3. Fail Fast, Log Faster
+4. APIs First, UI Later
